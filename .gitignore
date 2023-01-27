@@ -105,3 +105,6 @@ dist
 
 #i IDE configuration
 .idea/
+
+yarn.lock
+.yarn.installed
